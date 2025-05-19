@@ -26,12 +26,12 @@ Web sitesi barındırma ve oyun sunucusu çözümleri sunan modern, responsive b
 
 1. Repoyu klonlayın
    ```bash
-   git clone https://github.com/kullaniciadi/HostHaven.git
+   git clone https://github.com/erslly/hosting-site.git
    ```
 
 2. Proje dizinine gidin
    ```bash
-   cd HostHaven
+   cd hosting-site
    ```
 
 3. Bağımlılıkları yükleyin
