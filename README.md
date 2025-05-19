@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Host
 
-## Getting Started
+Hosting
 
-First, run the development server:
+Web sitesi barındırma ve oyun sunucusu çözümleri sunan modern, responsive bir web hosting platformu.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Özellikler
+
+- **Modern Arayüz**: Şık karanlık tema ve akıcı animasyonlar
+- **Responsive Tasarım**: Tüm cihaz boyutlarına tam uyumlu
+- **Çoklu Hosting Hizmetleri**:
+  - Web Hosting (cPanel, Plesk)
+  - Oyun Sunucuları (Minecraft, CS:GO, GTA V FiveM, ARK)
+- **İnteraktif Bileşenler**: Dinamik navigasyon, fiyatlandırma geçişleri ve daha fazlası
+- **Performans Odaklı**: Optimal performans için Next.js ile geliştirilmiş
+
+## 💻 Teknoloji Altyapısı
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Stil**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Bileşenleri**: [shadcn/ui](https://ui.shadcn.com/)
+- **Animasyonlar**: [Framer Motion](https://www.framer.com/motion/)
+- **İkonlar**: [Lucide Icons](https://lucide.dev/)
+
+## 🛠️ Kurulum & Başlangıç
+
+1. Repoyu klonlayın
+   ```bash
+   git clone https://github.com/kullaniciadi/HostHaven.git
+   ```
+
+2. Proje dizinine gidin
+   ```bash
+   cd HostHaven
+   ```
+
+3. Bağımlılıkları yükleyin
+   ```bash
+   npm install
+   # veya
+   yarn install
+   ```
+
+4. Geliştirme sunucusunu çalıştırın
+   ```bash
+   npm run dev
+   # veya
+   yarn dev
+   ```
+
+5. Sonucu görmek için tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın
+
+## 🏗️ Proje Yapısı
+
+```
+HostHaven/
+├── app/                     # Next.js App Router
+│   ├── layout.tsx           # Ana düzen
+│   ├── page.tsx             # Ana sayfa
+│   ├── service/             # Hizmet sayfaları
+│   │   ├── cpanel-webhosting/
+│   │   ├── game/
+│   │   │   ├── ark-server/
+│   │   │   ├── csgo-server/
+│   │   │   ├── gta-fivem-server/
+│   │   │   └── minecraft-server/
+│   │   └── plesk-webhosting/
+│   └── support/             # Destek sayfaları
+├── components/              # Yeniden kullanılabilir bileşenler
+│   ├── ui/                  # shadcn/ui'den UI bileşenleri
+│   ├── footer.tsx           # Alt bilgi bileşeni
+│   ├── hero.tsx             # Hero bölümü
+│   ├── kolay-adimlar.tsx    # Kolay adımlar bölümü
+│   ├── mobile-menu.tsx      # Mobil navigasyon
+│   ├── navbar.tsx           # Navigasyon çubuğu
+│   ├── neden-biz.tsx        # Neden biz bölümü
+│   ├── paketler.tsx         # Paketler bölümü
+│   ├── partnerler.tsx       # Partnerler bölümü
+│   └── sss.tsx              # SSS bölümü
+├── lib/                     # Yardımcı fonksiyonlar
+├── public/                  # Statik dosyalar
+└── styles/                  # Global stiller
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Dağıtım (Deployment)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Bu proje kolayca [Vercel](https://vercel.com/) veya Next.js uygulamalarını destekleyen diğer hosting platformlarına deploy edilebilir.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+# veya
+yarn build
+```
 
-## Learn More
+## 📱 Mobil Uyumluluk
 
-To learn more about Next.js, take a look at the following resources:
+- Tüm ekran boyutlarına responsive tasarım
+- Dokunmatik cihazlar için optimize edilmiş kullanıcı arayüzü
+- Mobil cihazlarda hızlı yükleme için optimize edilmiş
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👥 Tarafından Geliştirildi
 
-## Deploy on Vercel
+- [Erslly](https://erslly.xyz)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🙏 Teşekkürler
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
