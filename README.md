@@ -51,7 +51,7 @@ Web sitesi barındırma ve oyun sunucusu çözümleri sunan modern, responsive b
 ## 🏗️ Proje Yapısı
 
 ```
-HostHaven/
+hosting-site/
 ├── app/                     # Next.js App Router
 │   ├── layout.tsx           # Ana düzen
 │   ├── page.tsx             # Ana sayfa
