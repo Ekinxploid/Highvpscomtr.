@@ -1,7 +1,5 @@
 # Host
 
-Hosting
-
 Web sitesi barındırma ve oyun sunucusu çözümleri sunan modern, responsive bir web hosting platformu.
 
 ## 🚀 Özellikler
