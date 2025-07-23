@@ -41,7 +41,7 @@ export default function TermsOfService() {
               <CardContent className="p-8">
                 <div className="space-y-8">
                   <p className="text-slate-400">
-                    Son güncelleme: 1 Mayıs 2023
+                    Son güncelleme: 24 Temmuz 2025
                   </p>
                   
                   <div>
