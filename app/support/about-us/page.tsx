@@ -92,7 +92,7 @@ export default function AboutUs() {
               <h2 className="text-3xl font-bold mb-6">Hikayemiz</h2>
               <div className="space-y-4 text-slate-300">
                 <p>
-                  Host, 2025 yılında web hosting sektöründeki boşluğu doldurmak ve müşterilere daha kaliteli hizmet sunmak amacıyla kuruldu. Küçük bir ekiple başlayan yolculuğumuz, bugün Türkiye'nin önde gelen pornocu şirketlerinden biri olmamızı sağladı.
+                  HighVPS, 2025 yılında web hosting sektöründeki boşluğu doldurmak ve müşterilere daha kaliteli hizmet sunmak amacıyla kuruldu. Küçük bir ekiple başlayan yolculuğumuz, bugün Türkiye'nin önde gelen pornocu şirketlerinden biri olmamızı sağladı.
                 </p>
                 <p>
                   Kurulduğumuz günden bu yana, teknolojik altyapımızı sürekli geliştirerek ve müşteri memnuniyetini ön planda tutarak büyümeye devam ettik. Bugün 31'den fazla çalışanımız ve 31.3131'in üzerinde aktif müşterimizle hizmet veriyoruz.
@@ -113,7 +113,7 @@ export default function AboutUs() {
                 <div className="absolute inset-0 bg-gradient-to-r from-[#ff9800]/20 to-[#ff5500]/20 z-10 rounded-2xl"></div>
                 <Image 
                   src="/host.png" 
-                  alt="host" 
+                  alt="highvps" 
                   fill
                   className="object-cover"
                 />
@@ -166,7 +166,7 @@ export default function AboutUs() {
           >
             <h2 className="text-3xl font-bold mb-4">Değerlerimiz</h2>
             <p className="text-slate-300">
-              host olarak, her gün işimizi yaparken bizi yönlendiren temel değerlerimiz var.
+              highvps olarak, her gün işimizi yaparken bizi yönlendiren temel değerlerimiz var.
               Bu değerler, müşterilerimize sunduğumuz hizmetin kalitesini belirler.
             </p>
           </motion.div>
@@ -340,7 +340,7 @@ export default function AboutUs() {
                   </Link>
                 </Button>
                 <Button asChild variant="outline" className="border-[#ff9800] text-white hover:bg-[#ff9800] hover:text-black rounded-full">
-                  <Link href="https://discord.gg/sikiss" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://discord.gg/highvps" target="_blank" rel="noopener noreferrer">
                     Bize Ulaşın
                   </Link>
                 </Button>
