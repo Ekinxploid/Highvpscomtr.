@@ -103,13 +103,13 @@ export default function Footer() {
                 Bilgi Teknolojileri Kurumu
               </li>
               <li className="text-slate-400">
-                Tam Ünvan: asdasdsd
+                Tam Ünvan: bulunmuyor.
               </li>
               <li className="text-slate-400">
-                Vergi Dairesi: adasadsads
+                Vergi Dairesi: BakırKöy Vergi Dairesi
               </li>
               <li className="text-slate-400">
-                Vergi Numarası: 88888888
+                Vergi Numarası: 6050867753
               </li>
             </ul>
           </div>
