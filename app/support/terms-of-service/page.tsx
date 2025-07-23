@@ -49,7 +49,7 @@ export default function TermsOfService() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">1.1:</span> İşbu sözleşme, host.com markası altında faaliyet gösteren Host Hosting Hizmetleri (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) ile host.com web sitesinde (bundan sonra "Site" olarak anılacaktır) belirtilen yeni müşteri kayıt formu aracılığıyla kayıt işlemi gerçekleştiren kişi ya da kurum (bundan sonra "Müşteri" olarak anılacaktır) arasında, Site üzerinden sunulan hizmetlerin kullanımına ilişkin olarak imzalanmış sayılacaktır.
+                        <span className="font-semibold text-[#ff9800]">1.1:</span> İşbu sözleşme, highvps.com.tr markası altında faaliyet gösteren High Hosting Hizmetleri (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) ile highvps.com.tr web sitesinde (bundan sonra "Site" olarak anılacaktır) belirtilen yeni müşteri kayıt formu aracılığıyla kayıt işlemi gerçekleştiren kişi ya da kurum (bundan sonra "Müşteri" olarak anılacaktır) arasında, Site üzerinden sunulan hizmetlerin kullanımına ilişkin olarak imzalanmış sayılacaktır.
                       </p>
                       
                       <p>
@@ -71,7 +71,7 @@ export default function TermsOfService() {
                       </p>
                       
                       <p>
-                        <span className="font-semibold text-[#ff9800]">2.3:</span> Host, kayıt, satın alma veya diğer işlemler sırasında; güvenlik protokolleri kapsamında hesap onayı, bildirim veya bülten gönderimi amacıyla e-posta adresi, cep telefonu numarası gibi iletişim bilgilerinin paylaşılmasını talep edebilir. Bu bilgilerin doğruluğu, doğrulama kodu veya benzeri yöntemlerle teyit edilerek hizmetlere erişim sağlanır.
+                        <span className="font-semibold text-[#ff9800]">2.3:</span> HighVPS, kayıt, satın alma veya diğer işlemler sırasında; güvenlik protokolleri kapsamında hesap onayı, bildirim veya bülten gönderimi amacıyla e-posta adresi, cep telefonu numarası gibi iletişim bilgilerinin paylaşılmasını talep edebilir. Bu bilgilerin doğruluğu, doğrulama kodu veya benzeri yöntemlerle teyit edilerek hizmetlere erişim sağlanır.
                       </p>
                     </div>
                   </div>
@@ -99,11 +99,11 @@ export default function TermsOfService() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">4.1:</span> Müşteri, Host tarafından sağlanan hizmetleri yalnızca yasal amaçlar için kullanabilir. Hizmetlerin yasadışı içerik barındırmak, spam göndermek, kötü amaçlı yazılım dağıtmak veya başkalarının haklarını ihlal etmek için kullanılması kesinlikle yasaktır.
+                        <span className="font-semibold text-[#ff9800]">4.1:</span> Müşteri, Highvps tarafından sağlanan hizmetleri yalnızca yasal amaçlar için kullanabilir. Hizmetlerin yasadışı içerik barındırmak, spam göndermek, kötü amaçlı yazılım dağıtmak veya başkalarının haklarını ihlal etmek için kullanılması kesinlikle yasaktır.
                       </p>
                       
                       <p>
-                        <span className="font-semibold text-[#ff9800]">4.2:</span> Host, sunucularının kaynaklarının aşırı kullanımını veya diğer müşterilerin hizmet kalitesini etkileyecek şekilde kullanılmasını engelleme hakkını saklı tutar. CPU, bellek, disk alanı ve bant genişliği kullanımı makul sınırlar içinde olmalıdır.
+                        <span className="font-semibold text-[#ff9800]">4.2:</span> Highvps, sunucularının kaynaklarının aşırı kullanımını veya diğer müşterilerin hizmet kalitesini etkileyecek şekilde kullanılmasını engelleme hakkını saklı tutar. CPU, bellek, disk alanı ve bant genişliği kullanımı makul sınırlar içinde olmalıdır.
                       </p>
                       
                       <p>
@@ -127,7 +127,7 @@ export default function TermsOfService() {
                   </div>
                   
                   <p className="text-slate-400 text-sm">
-                    Bu hizmet şartları ile ilgili sorularınız varsa, lütfen <a href="mailto:dev@erslly.xyz" className="text-[#ff9800] hover:underline">dev@erslly.xyz</a> adresinden bizimle iletişime geçin.
+                    Bu hizmet şartları ile ilgili sorularınız varsa, lütfen <a href="ekinmedya22@gmail.com" className="text-[#ff9800] hover:underline">highvps.com.tr</a> adresinden bizimle iletişime geçin.
                   </p>
                 </div>
               </CardContent>
