@@ -49,11 +49,11 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">1.1:</span> Bu Gizlilik Politikası, host.com web sitesi ve hizmetleri (bundan sonra "Site" olarak anılacaktır) aracılığıyla toplanan kişisel verilerin işlenmesi, kullanılması ve korunması hakkında bilgi vermek amacıyla hazırlanmıştır.
+                        <span className="font-semibold text-[#ff9800]">1.1:</span> Bu Gizlilik Politikası, highvps.com.tr web sitesi ve hizmetleri (bundan sonra "Site" olarak anılacaktır) aracılığıyla toplanan kişisel verilerin işlenmesi, kullanılması ve korunması hakkında bilgi vermek amacıyla hazırlanmıştır.
                       </p>
                       
                       <p>
-                        <span className="font-semibold text-[#ff9800]">1.2:</span> Host Hosting Hizmetleri (bundan sonra "Host" olarak anılacaktır), kullanıcıların gizliliğini korumayı ve kişisel verilerin güvenliğini sağlamayı taahhüt eder. Bu politika, hangi verilerin toplandığını, nasıl kullanıldığını ve korunduğunu açıklar.
+                        <span className="font-semibold text-[#ff9800]">1.2:</span> HighVPS Hosting Hizmetleri (bundan sonra "HighVps" olarak anılacaktır), kullanıcıların gizliliğini korumayı ve kişisel verilerin güvenliğini sağlamayı taahhüt eder. Bu politika, hangi verilerin toplandığını, nasıl kullanıldığını ve korunduğunu açıklar niteliktedir.
                       </p>
                     </div>
                   </div>
@@ -63,7 +63,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">2.1:</span> Host, hizmetlerini sağlamak için aşağıdaki kişisel verileri toplayabilir:
+                        <span className="font-semibold text-[#ff9800]">2.1:</span> HighVPS, hizmetlerini sağlamak için aşağıdaki kişisel verileri toplayabilir:
                       </p>
                       <ul className="list-disc pl-8 space-y-2">
                         <li>Ad, soyad, e-posta adresi, telefon numarası gibi iletişim bilgileri</li>
@@ -78,7 +78,7 @@ export default function PrivacyPolicy() {
                       </p>
                       
                       <p>
-                        <span className="font-semibold text-[#ff9800]">2.3:</span> Host, çerezler ve benzer teknolojiler kullanarak kullanıcı deneyimini iyileştirmek, Site kullanımını analiz etmek ve hedefli reklamlar sunmak için bilgi toplayabilir. Çerezler hakkında daha fazla bilgi için Çerez Politikamıza bakabilirsiniz.
+                        <span className="font-semibold text-[#ff9800]">2.3:</span> highVPS, çerezler ve benzer teknolojiler kullanarak kullanıcı deneyimini iyileştirmek, Site kullanımını analiz etmek ve hedefli reklamlar sunmak için bilgi toplayabilir. Çerezler hakkında daha fazla bilgi için Çerez Politikamıza bakabilirsiniz.
                       </p>
                     </div>
                   </div>
@@ -88,7 +88,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">3.1:</span> Host, topladığı kişisel verileri aşağıdaki amaçlar için kullanabilir:
+                        <span className="font-semibold text-[#ff9800]">3.1:</span> HighVPS, topladığı kişisel verileri aşağıdaki amaçlar için kullanabilir:
                       </p>
                       <ul className="list-disc pl-8 space-y-2">
                         <li>Hosting hizmetleri, domain kayıtları ve diğer hizmetleri sağlamak</li>
@@ -101,7 +101,7 @@ export default function PrivacyPolicy() {
                       </ul>
                       
                       <p>
-                        <span className="font-semibold text-[#ff9800]">3.2:</span> Host, kullanıcının açık rızası olmadan kişisel verileri pazarlama amaçlı kullanmaz. Kullanıcılar, pazarlama iletişimlerini tercihlerini güncelleyerek veya iletişimlerdeki abonelikten çıkma bağlantısını kullanarak durdurabilir.
+                        <span className="font-semibold text-[#ff9800]">3.2:</span> HighVPS, kullanıcının açık rızası olmadan kişisel verileri pazarlama amaçlı kullanmaz. Kullanıcılar, pazarlama iletişimlerini tercihlerini güncelleyerek veya iletişimlerdeki abonelikten çıkma bağlantısını kullanarak durdurabilir.
                       </p>
                     </div>
                   </div>
@@ -111,7 +111,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">4.1:</span> Host, kişisel verileri aşağıdaki durumlarda üçüncü taraflarla paylaşabilir:
+                        <span className="font-semibold text-[#ff9800]">4.1:</span> HighVPS, kişisel verileri aşağıdaki durumlarda üçüncü taraflarla paylaşabilir:
                       </p>
                       <ul className="list-disc pl-8 space-y-2">
                         <li>Hizmet sağlayıcılar: Ödeme işlemcileri, müşteri destek hizmetleri, e-posta sağlayıcıları gibi hizmetleri sunmamıza yardımcı olan üçüncü taraf hizmet sağlayıcılar</li>
@@ -131,7 +131,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">5.1:</span> Host, kişisel verilerin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri uygular. Bu önlemler arasında şifreleme, güvenli sunucular, güvenlik duvarları ve düzenli güvenlik denetimleri yer alır.
+                        <span className="font-semibold text-[#ff9800]">5.1:</span> HighVPS, kişisel verilerin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri uygular. Bu önlemler arasında şifreleme, güvenli sunucular, güvenlik duvarları ve düzenli güvenlik denetimleri yer alır.
                       </p>
                       
                       <p>
@@ -167,7 +167,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">7.1:</span> Host, kişisel verileri yalnızca toplandıkları amaç için gerekli olan süre boyunca saklar. Saklama süreleri, hizmet türüne, yasal gerekliliklere ve iş ihtiyaçlarına göre değişebilir.
+                        <span className="font-semibold text-[#ff9800]">7.1:</span> HighVPS, kişisel verileri yalnızca toplandıkları amaç için gerekli olan süre boyunca saklar. Saklama süreleri, hizmet türüne, yasal gerekliliklere ve iş ihtiyaçlarına göre değişebilir.
                       </p>
                       
                       <p>
@@ -181,7 +181,7 @@ export default function PrivacyPolicy() {
                     
                     <div className="space-y-4 text-slate-300">
                       <p>
-                        <span className="font-semibold text-[#ff9800]">8.1:</span> Host, bu Gizlilik Politikasını zaman zaman güncelleyebilir. Politikada yapılan önemli değişiklikler, Site üzerinde bir bildirim yayınlanarak veya kayıtlı kullanıcılara e-posta gönderilerek duyurulacaktır.
+                        <span className="font-semibold text-[#ff9800]">8.1:</span> HighVPS, bu Gizlilik Politikasını zaman zaman güncelleyebilir. Politikada yapılan önemli değişiklikler, Site üzerinde bir bildirim yayınlanarak veya kayıtlı kullanıcılara e-posta gönderilerek duyurulacaktır.
                       </p>
                       
                       <p>
