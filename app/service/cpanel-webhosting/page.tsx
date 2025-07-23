@@ -96,7 +96,7 @@ export default function CpanelWebHosting() {
                   <CardTitle>Başlangıç Paketi</CardTitle>
                   <CardDescription className="text-slate-400">Kişisel web siteleri için ideal</CardDescription>
                   <div className="mt-4">
-                    <span className="text-3xl font-bold">₺{isYearly ? "39" : "49"}</span>
+                    <span className="text-3xl font-bold">₺{isYearly ? "19" : "39"}</span>
                     <span className="text-slate-400">/{isYearly ? "ay" : "ay"}</span>
                   </div>
                 </CardHeader>
@@ -147,7 +147,7 @@ export default function CpanelWebHosting() {
                   <CardTitle>Profesyonel Paket</CardTitle>
                   <CardDescription className="text-slate-400">Kurumsal web siteleri için ideal</CardDescription>
                   <div className="mt-4">
-                    <span className="text-3xl font-bold">₺{isYearly ? "71" : "89"}</span>
+                    <span className="text-3xl font-bold">₺{isYearly ? "29" : "59"}</span>
                     <span className="text-slate-400">/{isYearly ? "ay" : "ay"}</span>
                   </div>
                 </CardHeader>
@@ -195,7 +195,7 @@ export default function CpanelWebHosting() {
                   <CardTitle>Kurumsal Paket</CardTitle>
                   <CardDescription className="text-slate-400">Yüksek trafikli siteler için ideal</CardDescription>
                   <div className="mt-4">
-                    <span className="text-3xl font-bold">₺{isYearly ? "119" : "149"}</span>
+                    <span className="text-3xl font-bold">₺{isYearly ? "39" : "71"}</span>
                     <span className="text-slate-400">/{isYearly ? "ay" : "ay"}</span>
                   </div>
                 </CardHeader>
